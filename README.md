@@ -1,7 +1,7 @@
-# tatooine.club
+# My Mastodon Redirect
 
-My Mastodon homeserver is currently down, and I
-am using my backup `@nemo@recurse.social` account.
+My [Mastodon homeserver](https://tatooine.club) is currently down, and I am
+using my backup `@nemo@recurse.social` account.
 
 This is a simple Netlify edge function that sets 
 up a webfinger redirect from my old profile
@@ -12,3 +12,6 @@ a simple static site solution will redirect
 all accounts, and not just `@nemo@tatooine.club`.
 
 Hopefully this is all seamless.
+
+- <https://captnemo.in/contact/>
+- <https://recurse.social/@nemo>
